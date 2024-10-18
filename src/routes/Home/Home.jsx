@@ -6,7 +6,7 @@ const Home = () => {
   const [temperatura, setTemperatura] =useState([])
 
   useEffect(()=>{
-    fetch("https://bd-1-espg-one.vercel.app/")
+    fetch("https://bd-1-espg-one.vercel.app/temperatura")
     .then((res)=>{
         return res.json();
     })
