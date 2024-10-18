@@ -1,0 +1,13 @@
+{
+    "temperatura":[
+    {"time":"20/12 5h","value":27},
+    {"time":"21/12 8h","value":50},
+    {"time":"22/12 4h","value":26},
+    {"time":"23/12 3h","value":25},
+    {"time":"24/12 5h","value":24},
+    {"time":"25/12 1h","value":27},
+    {"time":"26/12 2h","value":27},
+    {"time":"27/12 7h","value":29},
+    {"time":"28/12 9h","value":30}
+]
+}
